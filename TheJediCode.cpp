@@ -5,7 +5,8 @@
 void TheJediCode::jediMindTrick()
 {
   object mind;
-  mind = blown;
+  qwenfsid
+  mind != blown;
 }
 
 
