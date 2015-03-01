@@ -5,7 +5,7 @@
 void TheJediCode::jediMindTrick()
 {
   object mind;
-  iuwhefuh
+  iuwweefffffffffff
   mind = blown;
 }
 
