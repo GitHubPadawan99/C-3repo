@@ -13,6 +13,6 @@ void TheJediCode::jediMindTrick()
 
 void TheJediCode::theForce()
 {
-  object object;
-  liftObjectWith(mind);  
+  object obj;
+  liftWithMind(obj);  
 }
