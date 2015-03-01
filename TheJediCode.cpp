@@ -1,7 +1,7 @@
 
 
 
-
+;iwh;ifue
 void TheJediCode::jediMindTrick()
 {
   object mind;
@@ -10,7 +10,7 @@ void TheJediCode::jediMindTrick()
 
 
 
-
+oiwehfuwbf
 void TheJediCode::theForce()
 {
   object obj;
